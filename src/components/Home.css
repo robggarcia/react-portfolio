@@ -1,0 +1,21 @@
+.home {
+    grid-column: 2;
+    height: 100vh;
+    margin-top: 100px;
+    margin-left: 50px;
+    color: #585858;
+}
+
+#name {
+    color: black;
+    font-size: 1.5em;
+}
+
+#role {
+    color: #00ffa6;
+}
+
+.icon {
+    height: 30px;
+    margin-right: 20px;
+}
